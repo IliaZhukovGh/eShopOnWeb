@@ -2,7 +2,7 @@ name: eShopOnWeb Build and Test DotNetCore
 
 #Triggers (uncomment line below to use it)
 #on: [push, pull_request, workflow_dispatch]
-on: [push]
+on: [workflow_dispatch]
 
 jobs:
   build:
