@@ -9,7 +9,7 @@ env:
   LOCATION: australiasoutheast
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 9ef0c91a-e3eb-44c6-9a1d-3f973b8f90a2
-  WEBAPP-NAME: devops-webapp-auseast-39863341
+  WEBAPP-NAME: devops-webapp-aussoutheast-209410086
 
 jobs:
   #Build, test and publish .net web project in repository
